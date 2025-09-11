@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Orhan Efe Bayrak  
+🎓 I am a Computer Engineering student at Üsküdar University  
+💡 I’m interested in Artificial Intelligence, Machine Learning, and Backend Development  
 
-<!--
-**0rhanbayrak/0rhanbayrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Deep Learning, PyTorch, and Computer Vision.  
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://github.com/0rhanbayrak  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: obayrak704@gmail.com  
+
+---
+
+### 🔗 Connect with me:
+- [LinkedIn](www.linkedin.com/in/orhan-efe-bayrak-a62b3222a)  
+- [Instagram](https://instagram.com/0rhanbayrak)  
+
+---
+
+### 🛠️ Languages and Tools:
+- Python 🐍 | C# | .NET | SQL | Pandas | NumPy | Matplotlib | PyTorch | Git | Docker
