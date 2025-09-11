@@ -11,7 +11,7 @@
 ---
 
 ### 🔗 Connect with me:
-- [LinkedIn](www.linkedin.com/in/orhan-efe-bayrak-a62b3222a)  
+- [LinkedIn](https://www.linkedin.com/in/orhan-efe-bayrak-a62b3222a)  
 - [Instagram](https://instagram.com/0rhanbayrak)  
 
 ---
