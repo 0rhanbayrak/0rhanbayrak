@@ -17,4 +17,4 @@
 ---
 
 ### 🛠️ Languages and Tools:
-- Python 🐍 | C# | .NET | SQL | Pandas | NumPy | Matplotlib | PyTorch | Git | Docker
+- Python 🐍 | C# | Pandas | NumPy | Matplotlib | PyTorch | Git | Docker
