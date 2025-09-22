@@ -14,4 +14,4 @@
 ---
 
 ### 🛠️ Languages and Tools:
-- Python 🐍 | C# | Pandas | NumPy | Matplotlib | PyTorch | Git | Docker
+- Python | C# | Pandas | NumPy | Matplotlib | PyTorch 
