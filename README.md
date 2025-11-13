@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDMalIPm17Yj9Xv12ROlv3OTwYQa1Q1G15w&s)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDMalIPm17Yj9Xv12ROlv3OTwYQa1Q1G15w&s)
 <h1 align="center">Hi 👋, I'm Orhan Efe Bayrak</h1>
 <h3 align="center">🎓 I am a Computer Engineering student at Üsküdar University 💡 I’m interested in Artificial Intelligence, Machine Learning, and Backend Development</h3>
 
