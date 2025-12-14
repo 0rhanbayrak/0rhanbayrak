@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/orhan-efe-bayrak" target="_blank">
+<a href="[https://linkedin.com/in/orhan-efe-bayrak](https://www.linkedin.com/in/orhan-efe-bayrak-a62b3222a/)" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 <a href="https://instagram.com/0rhanbayrak" target="_blank">
