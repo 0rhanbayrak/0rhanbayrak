@@ -16,9 +16,7 @@
 ## 🚀 About Me
 - 🎓 Computer Engineering student at **Üsküdar University**
 - 🤖 Focused on **Artificial Intelligence & Machine Learning**
-- 🧠 Interested in **Deep Learning, Computer Vision, OCR**
-- 🧪 Experience with **PyTorch, OpenCV, scikit-learn**
-- 🌍 Looking for **AI / ML internships (Erasmus & international)**
+- 🧠 Interested in **Deep Learning, Computer Vision, Big Data**
 
 ---
 
