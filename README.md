@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0rhanbayrak/0rhanbayrak/main/assets/banner.png"
+  <img src="https://github.com/0rhanbayrak/0rhanbayrak/blob/main/gthb.jpg"
        width="100%" />
 </p>
 
@@ -7,7 +7,7 @@
 
 <h3 align="center">
 🎓 Computer Engineering Student <br/>
-🤖 Artificial Intelligence & Machine Learning Enthusiast <br/>
+🤖 Artificial Intelligence & Machine Learning  <br/>
 🧠 Deep Learning • Computer Vision • Backend
 </h3>
 
