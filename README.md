@@ -16,7 +16,7 @@
 ## 🚀 About Me
 - 🎓 Computer Engineering student at **Üsküdar University**
 - 🤖 Focused on **Artificial Intelligence & Machine Learning**
-- 🧠 Interested in **Deep Learning, Computer Vision, Big Data**
+- 🧠 Interested in **Deep Learning, Computer Vision,Data Science**
 
 ---
 
