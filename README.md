@@ -3,20 +3,20 @@
        width="100%" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Orhan Efe Bayrak</h1>
+<h1 align="center">Hi,I'm Orhan Efe Bayrak</h1>
 
 <h3 align="center">
-🎓 Computer Engineering Student <br/>
-🤖 Artificial Intelligence & Machine Learning  <br/>
-🧠 Deep Learning • Computer Vision • Backend
+ Computer Engineering Student <br/>
+ Artificial Intelligence & Machine Learning  <br/>
+ Deep Learning • Computer Vision • Backend
 </h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Engineering student at **Üsküdar University**
-- 🤖 Focused on **Artificial Intelligence & Machine Learning**
-- 🧠 Interested in **Deep Learning, Computer Vision,Data Science**
+##  About Me
+-  Computer Engineering student at **Üsküdar University**
+-  Focused on **Artificial Intelligence & Machine Learning**
+-  Interested in **Deep Learning, Computer Vision,Data Science**
 
 ---
 
@@ -31,17 +31,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
-
----
-
-## 🧠 AI / ML Projects
-- 🚌 **Real-time Bus Number Detection** (YOLO + OCR)
-- 🔤 **Custom OCR Model Training**
-- 📊 **RFM Analysis & Customer Segmentation**
-- 🧠 **Deep Learning Experiments with PyTorch**
-- 📸 **Image Processing & FFT-based Analysis**
-
----
 
 ## 📫 Connect with Me
 <p align="left">
