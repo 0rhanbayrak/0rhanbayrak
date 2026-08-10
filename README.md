@@ -6,26 +6,25 @@
 <h1 align="center">Hi, I'm Orhan Efe Bayrak</h1>
 
 <h3 align="center">
-  Computer Engineering Student <br/>
   Artificial Intelligence & Machine Learning Engineer <br/>
-  Deep Learning • Computer Vision • Big Data & NLP
+  Deep Learning & Machine Learning • Computer Vision • Big Data & NLP • PHP
 </h3>
 
 ---
 
-## 🔭 About Me
-- 🎓 Computer Engineering student at **Üsküdar University**
-- 🧠 Deeply focused on **Artificial Intelligence, Machine Learning & Data Science**
-- 💻 Currently building modular ML pipelines, transitioning from Jupyter notebooks to scalable Python architectures
-- 📊 Passionate about balancing technical model performance with Business Intelligence (BI) metrics
+## About Me
+- Graduated From Computer Engineering Department at **Üsküdar University**
+- Deeply focused on **Artificial Intelligence, Machine Learning & Data Science**
+- Currently building modular ML pipelines
+- Passionate about balancing technical model performance with Business Intelligence (BI) metrics
 
 ---
 
-## 🚀 What I'm Working On
-- **Computer Vision:** Developing object detection and video processing applications (e.g., *BusVision*) using **YOLO, CRNN, and TensorFlow Lite**.
-- **Natural Language Processing (NLP):** Pre-training and fine-tuning LLMs (**BERT, GPT-2, Gemma, Qwen**) on domain-specific e-commerce datasets.
-- **Big Data & Analytics:** Building recommendation engines, performing customer segmentation (K-Means), and RFM analysis by integrating **PySpark** and **SQL Server**.
-- **Model Optimization:** Implementing hyperparameter optimization workflows using **Optuna**.
+## Focus Areas & Sectors
+- **Big Data & Analytics:** Architecting recommendation engines, customer behavior segmentation, and large-scale data processing pipelines.
+- **Model Optimization:** Designing robust workflows for continuous performance tuning and model enhancement.
+- **Computer Vision:** Developing object detection and video processing applications for real-world monitoring and automation.
+- **Natural Language Processing (NLP):** Fine-tuning language models for domain-specific text analysis and intelligent generation.
 
 ---
 
@@ -33,18 +32,10 @@
 <p align="left">
   <!-- Core Languages & Version Control -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <br>
-  <br>
-  <!-- Database & Data Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server / DBeaver"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" alt="SQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" width="40" alt="PySpark"/>
-  <br>
-  <br>
-  <!-- AI, Data & Frameworks -->
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-Learn"/>
@@ -53,7 +44,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/orhan-efe-bayrak-a62b3222a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
